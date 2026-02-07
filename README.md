@@ -36,6 +36,8 @@ ensure tw_movement
 - Aim/shoot: forces FP (except when unarmed if configured). Let go to return to TP.
 
 ### Support
-- Questions/bugs? Reach out in my Discord (Dutch server; open a ticket for English help).  
+- Questions/bugs? Reach out in my Discord (Dutch server; open a ticket for English help).
+https://discord.gg/v7X5fEz7XS
 - Please include: server build, other camera/animation resources running, and whether you use keyboard or controller.
+
 
